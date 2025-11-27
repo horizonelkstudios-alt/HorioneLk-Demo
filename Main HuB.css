@@ -826,10 +826,11 @@
 /* Mobile */
 @media (max-width: 600px) {
   .gallery-grid img {
-    height: 150px;
+    height: 100%;
   }
 }
 
 .Featuredh2 {
   margin-top: 50px;
 }
+
